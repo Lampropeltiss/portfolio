@@ -1,8 +1,20 @@
+Оглавление:
+- [Backend. Пет-проекты и учебные проекты](#backend-пет-проекты-и-учебные-проекты)
+  - [Пет-проект](#пет-проект)
+    - [ROCK FROG RPG — Telegram-бот (RPG)](#rock-frog-rpg--telegram-бот-rpg)
+  - [Учебные проекты](#учебные-проекты)
+      - [Резервное копирование фотографий VK → Яндекс.Диск](#резервное-копирование-фотографий-vk--яндексдиск)
+    - [VKinder — бот для знакомств ВКонтакте (командный проект)](#vkinder--бот-для-знакомств-вконтакте-командный-проект)
+  - [Дополнительно:](#дополнительно)
+    - [Базы данных (SQL, Postgres, SQLAlchemy): примеры решённых задач](#базы-данных-sql-postgres-sqlalchemy-примеры-решённых-задач)
+
 # Backend. Пет-проекты и учебные проекты
+<a name="Backend"></a>
 
 ## Пет-проект
 
 ### ROCK FROG RPG — Telegram-бот (RPG)
+<a name="rock_frog"></a>
 [GitHub — Lampropeltiss/rock_frog_rpg](https://github.com/Lampropeltiss/rock_frog_rpg)
 
 **Обзор проекта:**  
@@ -20,8 +32,10 @@
 ---
 
 ## Учебные проекты
+<a name="Учебные_проекты"></a>
 
-### Резервное копирование фотографий VK → Яндекс.Диск
+#### Резервное копирование фотографий VK → Яндекс.Диск
+<a name="vk_yandex_copy"></a>
 [GitHub — Lampropeltiss/hw_api](https://github.com/Lampropeltiss/hw_api)
 
 **Обзор проекта:**  
@@ -36,6 +50,7 @@
 ---
 
 ### VKinder — бот для знакомств ВКонтакте (командный проект)
+<a name="vkinder"></a>
 [GitHub — Lampropeltiss/VKinder](https://github.com/Lampropeltiss/VKinder)
 
 **Обзор проекта:**  
@@ -53,3 +68,15 @@
 - **Requests** — выполнение HTTP-запросов
 - **SQLAlchemy** + **psycopg2-binary** — работа с базой данных PostgreSQL
 - **Python-dotenv** — хранение токенов и настроек
+
+---
+
+## Дополнительно:
+<a name="Дополнительно"></a>
+
+### Базы данных (SQL, Postgres, SQLAlchemy): примеры решённых задач
+<a name="databases"></a>
+- БД: [Схемы БД с приложенными sql-запросами для их создания, выполненные в соответствии с наборами требований](https://github.com/Lampropeltiss/schemes)
+- Выборка данных: [SELECT-запросы](https://github.com/Lampropeltiss/selects)
+- Работа с PostgreSQL из Python: [программа для управления клиентами на Python](https://github.com/Lampropeltiss/hw_db_5)
+- Python и БД. ORM: [программа для работы с системой контроля продажи книг](https://github.com/Lampropeltiss/hw_db_6)
