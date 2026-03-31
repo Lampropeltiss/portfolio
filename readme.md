@@ -83,5 +83,3 @@
 - Выборка данных: [SELECT-запросы](https://github.com/Lampropeltiss/selects)
 - Работа с PostgreSQL из Python: [программа для управления клиентами на Python](https://github.com/Lampropeltiss/hw_db_5)
 - Python и БД. ORM: [программа для работы с системой контроля продажи книг](https://github.com/Lampropeltiss/hw_db_6)
-=======
->>>>>>> cdce0bc262689f292dcb0c5f5475dbb7230c8cee:readme.md
